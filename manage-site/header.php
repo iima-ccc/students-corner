@@ -33,6 +33,7 @@
         <a href="manage_blog.php" class="menus" >Manage Blog</a>
         <a href="manage_events.php"class="menus" >Manage Events</a>
         <a href="manage_members.php" class="menus" >Manage Members</a>
+        <a> <!--href="update_menu.php" class="menus"-->Update Menu</a>
         <a href="reset-password.php" class="menus" >Reset Password</a>
         <a href="logout.php"  class="menus"  >Logout</a>
         
