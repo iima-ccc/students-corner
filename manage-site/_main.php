@@ -80,7 +80,7 @@ try {
         <input type="hidden" name="id" value="<?php echo $details[0]["id"]; ?>"  />
         <table id="tableForm">
             <tr>
-                <td class="formLeft"><span class="required">*</span>Organization Name: </td>
+                <td class="formLeft"><span class="required">*</span>Sunday: </td>
                 <td><input type="text" name="org_name" id="org_name" class="textboxes" value="<?php echo stripslashes($details[0]["org_name"]); ?>" autocomplete="off" /> </td>
             </tr>
             <tr>
